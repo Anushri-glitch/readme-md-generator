@@ -43,6 +43,6 @@ This project is [MIT](http://it.mitindia.edu/) licensed.
 
 # 
 
-This README was generated with ❤️ by [@Anushri-glitch](https://github.com/Anushri-glitch)
+This README was generated with ❤️ by [@AnushkaSrivastava](https://github.com/Anushri-glitch)
 
 
